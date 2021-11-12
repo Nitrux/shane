@@ -1,0 +1,5 @@
+#! /bin/sh
+
+
+# Eliminate the need of quoting variable expansions.
+IFS=$'\t\n'
