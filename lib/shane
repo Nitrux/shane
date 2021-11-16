@@ -1,5 +1,5 @@
 #! /bin/sh
 
 
-# Eliminate the need of quoting variable expansions.
+# Eliminate the need of quoting variable substitution.
 IFS=$'\t\n'
